@@ -1,28 +1,23 @@
-1. Blind Stick
-A smart stick designed for the visually impaired, integrating sensors to detect obstacles and ensure safe navigation. Includes:
+1. Blind Stick (IoT Device)
+An IoT-based smart stick developed for the visually impaired. It uses sensors to detect nearby obstacles, helping users navigate safely and independently.
 
-Blind Stick.zip: Source files/code.
+Blind Stick.zip: Source code and hardware integration files
 
-BlindStickAss4.docx: Documentation and project report.
+BlindStickAss4.docx: Detailed project report
 
-SBSposter.pdf: Poster used for project presentation.
+SBSposter.pdf: Presentation poster
 
 2. CIA4003 Project
-Advanced application development project focused on real-world system design and functionality.
+A full-stack application built as part of an advanced development course. Focused on solving real-world problems through practical system design.
 
-CIA4003Project.zip: Complete submission package.
+CIA4003Project.zip: Complete source code and documentation
 
 3. Enterprise Database Applications
-Database system design with ER models, SQL scripts, and relational schema.
+A database system project including ER models, relational schema design, and SQL scripting.
 
-Enterprise Database Applicatns.zip: Full project files.
+Enterprise Database Applicatns.zip: All database design files and scripts
 
 4. Project 7
-A coursework submission demonstrating integration of multiple technologies in one solution.
+A multi-technology software project that combines frontend, backend, and database layers to deliver an integrated solution.
 
-Project 7.zip: All code and documentation.
-
-5. Team Submission
-Team-based collaborative work on software development and UI/UX design.
-
-Team1_H00459553_Mariam_H00418715_Kanna_...: Group project files.
+Project 7.zip: Source code and supporting documents
